@@ -27,5 +27,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LaiFrance&repo=LaiFrance&theme=react)](https://github.com/LaiFrance/LaiFrance)
 

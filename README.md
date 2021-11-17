@@ -4,8 +4,8 @@
   <a href="https://github.com/LaiFrance">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=LaiFrance&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiFrance&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://data.whicdn.com/images/108677275/original.gif">
+<img align="center" width="148" height="180" src="https://data.whicdn.com/images/304745209/original.gif">
+  
 </div>
  <br>
 <div  align="center"> 

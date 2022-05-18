@@ -1,5 +1,8 @@
 <h1> Oiii! Eu sou Laise France </h1>
   <a href="https://github.com/LaiFrance">
+  
+ 
+  <img height="300em" padding="20px"  align="center" src="https://user-images.githubusercontent.com/91226847/169122565-160888e7-8647-427f-8897-2a0a6e690854.png" /> 
   <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=LaiFrance&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="170em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiFrance&layout=compact&langs_count=7&theme=react" />
 <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
@@ -21,6 +24,8 @@
   <img align="center" alt="Samu-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Samu-Git" height="50" width="150" src="https://user-images.githubusercontent.com/93998809/150248649-9d3d77b9-e93b-4be2-ba6a-4884a37979cf.gif">
   <img align="center" alt="Samu-Git-Hub" height="50" width="60" src="https://user-images.githubusercontent.com/93998809/150248731-9534ea22-fd61-44b9-b8c9-adc7690c6cec.gif">
+    <img align="center" alt="Samu-Git-Hub" height="50" width="60" src="https://user-images.githubusercontent.com/91226847/169141502-07ef73c8-4573-4f87-b359-05f01fcf8fec.png"
+https://user-images.githubusercontent.com/93998809/150248731-9534ea22-fd61-44b9-b8c9-adc7690c6cec.gif">
 </div>
     
 </div>

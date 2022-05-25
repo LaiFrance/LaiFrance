@@ -20,6 +20,7 @@
   <img align="center" alt="Samu-CSS" height="50" width="60" src="https://user-images.githubusercontent.com/93998809/150248634-fe0cd48d-ff05-4a38-9798-c5544ddd9729.gif">
   <img align="center" alt="Samu-js" height="50" width="60" src="https://user-images.githubusercontent.com/93998809/150248836-8cf649e4-d3a9-48ea-807a-c85c2419f967.gif">
   <img align="center" alt="Samu-Linux" height="50" width="60" src="https://user-images.githubusercontent.com/93998809/149452173-ef3423e3-8352-472e-af44-a2402759204f.png">
+   <img align="center" alt="Logotipo MySql" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="Angular" height="50" width="80" src="https://www.aceinfoway.com/blog/wp-content/uploads/2020/12/Migration-from-AngularJS-to-Angular.gif">
   <img align="center" alt="Samu-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Samu-Git" height="50" width="150" src="https://user-images.githubusercontent.com/93998809/150248649-9d3d77b9-e93b-4be2-ba6a-4884a37979cf.gif">
@@ -31,6 +32,8 @@ https://user-images.githubusercontent.com/93998809/150248731-9534ea22-fd61-44b9-
 </div>
   <a href="https://www.instagram.com/lai_fran/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laise-france-74428712a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://wa.me/5581992913270" target="_blank"><img alt="Link para e-mail" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
  
   ![Snake animation](https://github.com/LaiFrance/LaiFrance/blob/output/github-contribution-grid-snake.svg)
  

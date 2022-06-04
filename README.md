@@ -1,10 +1,12 @@
 <h1> Oiii! Eu sou Laise France </h1>
  
- 
+ <div  align="center"> 
   <img height="300em" padding="20px"  align="center" src="https://user-images.githubusercontent.com/91226847/169122565-160888e7-8647-427f-8897-2a0a6e690854.png" /> 
-  <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=LaiFrance&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="170em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiFrance&layout=compact&langs_count=7&theme=react" />
-<img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+ <div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiFrance&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaiFrance&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <div  align="center"> 
   <div style="display:flex"><br>
     

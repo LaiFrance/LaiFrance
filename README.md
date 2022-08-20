@@ -1,4 +1,5 @@
-<h1> Oiii! Eu sou Laise France </h1>
+<h1 align="center">Hi 👋, I'm Laise France</h1>
+
  
  <div  align="center"> 
   <img height="300em" padding="20px"  align="center" src="https://user-images.githubusercontent.com/91226847/169122565-160888e7-8647-427f-8897-2a0a6e690854.png" /> 

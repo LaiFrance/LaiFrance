@@ -1,5 +1,26 @@
 <h1 align="center">Hi 👋, I'm Laise France</h1>
+ <div  align="center"> 
+<h1>🚀 Sobre mim </h1>
 
+No final de 2021 decidi fazer Transição de Carreira para a área 
+de TI resolvi me dedicar aos estudos e começar a fazer cursos online 
+ingressei na Trybe uma escola de programação e estou até o momento me 
+dedicando a área.</br>
+Em Agosto de 2022 ingressei na UNIFBV e faço o curso de ANÁLISE E DESENVOLVIMENDO DE SISTEMAS</br>
+ Achei a área de a área de TI  extremamente promissora 
+ela vem promovendo uma verdadeira revolução na sociedade: integra pessoas, socializa informações,transforma e muda todo dia.</br>
+Ela me proporcionou grandes resultados e evolução pessoal 
+<div>
+
+
+
+## O que estou fazendo :
+
+👩‍💻
+Atualmente participo do Programa #ElasTech do PagSeguro com a 
+GAMA ACADEMY
+
+🧠 Atualmente Estou aprendendo JAVA , Testes e Qualidade de Software
  
  <div  align="center"> 
   <img height="300em" padding="20px"  align="center" src="https://user-images.githubusercontent.com/91226847/169122565-160888e7-8647-427f-8897-2a0a6e690854.png" /> 

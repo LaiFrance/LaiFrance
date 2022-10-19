@@ -4,7 +4,7 @@
 
 No final de 2021 decidi fazer Transição de Carreira para a área 
 de TI resolvi me dedicar aos estudos e começar a fazer cursos online 
-ingressei na Trybe uma escola de programação e estou até o momento me 
+ingressei na Trybe uma escola de programação que irei concluir no final do ano e estou até o momento me 
 dedicando a área.</br>
 Em Agosto de 2022 ingressei na UNIFBV e faço o curso de ANÁLISE E DESENVOLVIMENDO DE SISTEMAS</br>
  Achei a área de a área de TI  extremamente promissora 

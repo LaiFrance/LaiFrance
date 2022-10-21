@@ -3,7 +3,8 @@
 <h1>🚀 Sobre mim </h1>
 
 No final de 2021 decidi fazer Transição de Carreira para a área 
-de TI resolvi me dedicar aos estudos e começar a fazer cursos online 
+de TI 👩‍💻 </br>
+resolvi me dedicar aos estudos e começar a fazer cursos online 
 ingressei na Trybe uma escola de programação e estou até o momento me 
 dedicando a área.</br>
 Em Agosto de 2022 iniciei os estudos na UNIFBV e faço o curso de ANÁLISE E DESENVOLVIMENDO DE SISTEMAS</br>

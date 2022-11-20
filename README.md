@@ -3,13 +3,13 @@
 <h1>🚀 Sobre mim </h1>
 
 No final de 2021 decidi fazer Transição de Carreira para a área 
-de TI 👩‍💻 </br>
+de Tecnlogia 👩‍💻 </br>
 resolvi me dedicar aos estudos e começar a fazer cursos online 
-ingressei na Trybe uma escola de programação e estou até o momento me 
+ingressei na TRYBE uma escola de programação e estou até o momento me 
 dedicando a área.</br>
 Em Agosto de 2022 iniciei os estudos na UNIFBV e faço o curso de ANÁLISE E DESENVOLVIMENDO DE SISTEMAS</br>
 😀 Faço Parte do ElasTech PAGSEGURO em parceria com a Gama Academy 💚
- Achei a área de a área de TI  extremamente promissora 
+ Achei a área de a área de Tecnologia  extremamente promissora 
 ela vem promovendo uma verdadeira revolução na sociedade: integra pessoas, socializa informações,transforma e muda todo dia.</br>
 Ela me proporcionou grandes resultados e evolução pessoal 
 <div>

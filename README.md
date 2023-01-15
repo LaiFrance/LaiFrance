@@ -19,8 +19,8 @@ Ela me proporcionou grandes resultados e evolução pessoal
 ## O que estou fazendo :
 
 👩‍💻
-Atualmente participo do Programa #ElasTech do PagSeguro com a 
-GAMA ACADEMY
+Participei do Programa #ElasTech do PagSeguro com a 
+GAMA ACADEMY 
 
 🧠 Atualmente Estou aprendendo JAVA , Testes e Qualidade de Software
  

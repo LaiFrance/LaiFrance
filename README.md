@@ -21,6 +21,7 @@ Ela me proporcionou grandes resultados e evolução pessoal
 👩‍💻
 Participei do Programa #ElasTech do PagSeguro com a 
 GAMA ACADEMY 
+ Participando da formação em Back-end JAVA Pela Generation Brasil
 
 🧠 Atualmente Estou aprendendo JAVA , Testes e Qualidade de Software
  

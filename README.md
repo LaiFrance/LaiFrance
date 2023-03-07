@@ -1,17 +1,16 @@
-![Tecnologia criatividade inovação estratégia post instagram minimalista branco e roxo (Vídeo) (Capa para Facebook)](https://user-images.githubusercontent.com/91226847/223315661-c4c36b7d-fa4f-4083-9839-9149f0f5e48c.gif)
 
 
-
+<div style="display:flex">
+<img src="https://user-images.githubusercontent.com/91226847/223325212-ff0699b4-e9f1-40e6-bef7-360710e44ca4.gif" width="500" />
+<div>
 
 
  <div  align="center"> 
 <h1>🚀 Sobre mim </h1>
 
 No final de 2021, decidi empreender em transição de carreira para a área de Tecnologia, com o intuito de buscar conhecimento e aprimorar minhas competências. Para tal, ingressei em uma escola de programação e iniciei meus estudos na UNIFBV, com o curso de Análise e Desenvolvimento de Sistemas. Além disso, participei do Programa #ElasTech do PagSeguro, com a Gama Academy, onde tive a oportunidade de aprimorar meus conhecimentos, especificamente, no Back-end JAVA. Atualmente, busco aprimorar meus conhecimentos adquiridos, ampliando meu conhecimento em Testes e Qualidade de Software. 
-Em suma, encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente.
+Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente.
 <div>
-
-
 
 ## O que estou fazendo :
 
@@ -22,9 +21,7 @@ GAMA ACADEMY <br>
 
 🧠 Atualmente Estou aprendendo JAVA , Testes e Qualidade de Software
  
- <div  align="center"> 
-  <img height="300em" padding="20px"  align="center" src="https://user-images.githubusercontent.com/91226847/169122565-160888e7-8647-427f-8897-2a0a6e690854.png" /> 
- <div>
+ 
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiFrance&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaiFrance&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -2,16 +2,8 @@
  <div  align="center"> 
 <h1>🚀 Sobre mim </h1>
 
-No final de 2021 decidi fazer Transição de Carreira para a área 
-de Tecnlogia 👩‍💻 </br>
-resolvi me dedicar aos estudos e começar a fazer cursos online 
-ingressei em uma escola de programação e estou até o momento me 
-dedicando a área.</br>
-Em Agosto de 2022 iniciei os estudos na UNIFBV e faço o curso de ANÁLISE E DESENVOLVIMENDO DE SISTEMAS</br>
-😀 Fiz Parte do ElasTech PAGSEGURO 💚
- Achei a área de a área de Tecnologia  extremamente promissora 
-ela vem promovendo uma verdadeira revolução na sociedade: integra pessoas, socializa informações,transforma e muda todo dia.</br>
-Ela me proporcionou grandes resultados e evolução pessoal 
+No final de 2021, decidi empreender em transição de carreira para a área de Tecnologia, com o intuito de buscar conhecimento e aprimorar minhas competências. Para tal, ingressei em uma escola de programação e iniciei meus estudos na UNIFBV, com o curso de Análise e Desenvolvimento de Sistemas. Além disso, participei do Programa #ElasTech do PagSeguro, com a Gama Academy, onde tive a oportunidade de aprimorar meus conhecimentos, especificamente, no Back-end JAVA. Atualmente, busco aprimorar meus conhecimentos adquiridos, ampliando meu conhecimento em Testes e Qualidade de Software. 
+Em suma, encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente.
 <div>
 
 

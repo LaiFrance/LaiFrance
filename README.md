@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Laise France</h1>
+![Tecnologia criatividade inovação estratégia post instagram minimalista branco e roxo (Vídeo) (Capa para Facebook)](https://user-images.githubusercontent.com/91226847/223315661-c4c36b7d-fa4f-4083-9839-9149f0f5e48c.gif)
+
+
+
+
+
  <div  align="center"> 
 <h1>🚀 Sobre mim </h1>
 

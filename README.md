@@ -10,7 +10,7 @@
  <div  align="center"> 
 <h1>🚀 Sobre mim </h1>
 
-No final de 2021, decidi empreender em transição de carreira para a área de Tecnologia, com o intuito de buscar conhecimento e aprimorar minhas competências. Para tal, ingressei em uma escola de programação e iniciei meus estudos na UNIFBV, com o curso de Análise e Desenvolvimento de Sistemas. Além disso, participei do Programa #ElasTech do PagSeguro, com a Gama Academy, onde tive a oportunidade de aprimorar meus conhecimentos, especificamente, no Back-end JAVA. Atualmente, busco aprimorar meus conhecimentos adquiridos, ampliando meu conhecimento em Testes e Qualidade de Software. 
+Em 2022, decidi começar minha transição de carreira para a área de Tecnologia, com o intuito de buscar conhecimento e aprimorar minhas competências. Para tal, ingressei em uma escola de programação e iniciei meus estudos na UNIFBV, com o curso de Análise e Desenvolvimento de Sistemas. Além disso, participei do Programa #ElasTech do PagSeguro, com a Gama Academy, onde tive a oportunidade de aprimorar meus conhecimentos, especificamente, no Back-end JAVA. Atualmente, busco aprimorar meus conhecimentos adquiridos, ampliando meu conhecimento em Testes e Qualidade de Software. 
 Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente.
 <div>
 

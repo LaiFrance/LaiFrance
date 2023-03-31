@@ -1,10 +1,5 @@
 
 
- <div  align="center"> 
-<img src="https://user-images.githubusercontent.com/91226847/223834212-3e5a2c8e-285d-4bf1-84b4-1ddb125765e0.gif" width="700" height="400" >
-</div>
- 
-
 
 
  <div  align="center"> 

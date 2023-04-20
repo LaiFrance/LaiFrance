@@ -19,8 +19,8 @@ GAMA ACADEMY <br>
  
  
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiFrance&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaiFrance&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiFrance&layout=compact&langs_count=7"/>
+<img height="200em"  width="500em" src="https://github-readme-stats.vercel.app/api?username=LaiFrance&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
 <div  align="center"> 
   <div style="display:flex"><br>

@@ -58,7 +58,7 @@ GAMA ACADEMY <br>
    <a href="https://wa.me/5581992913270" target="_blank"><img alt="Link para e-mail" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
    <a href="https://github.com/LaiFrance">
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="laise-france" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/laise-france?trk=profile-badge">Laise France</a></div>
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="laise-france" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/laise-france=profile-badge">Laise France</a></div>
               
  
   ![Snake animation](https://github.com/LaiFrance/LaiFrance/blob/output/github-contribution-grid-snake.svg)

@@ -18,9 +18,9 @@ GAMA ACADEMY <br>
 🧠 Atualmente Estou aprendendo JAVA , Testes e Qualidade de Software
  
  
-<a href="https://github.com/seu-usuário-aqui">
-<img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiFrance&layout=compact&langs_count=7"/>
-<img height="200em"  width="500em" src="https://github-readme-stats.vercel.app/api?username=LaiFrance&show_icons=true&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/laifrance">
+<img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiFrance&theme=nightowl&layout=compact&langs_count=7"/>
+<img height="200em"  width="500em" src="https://github-readme-stats.vercel.app/api?username=LaiFrance&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
 <div  align="center"> 
   <div style="display:flex"><br>
@@ -58,7 +58,7 @@ GAMA ACADEMY <br>
    <a href="https://wa.me/5581992913270" target="_blank"><img alt="Link para e-mail" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
    <a href="https://github.com/LaiFrance">
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="radical" data-type="HORIZONTAL" data-vanity="laise-france" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/laise-france=profile-badge">Laise France</a></div>
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="laise-france" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/laise-france=profile-badge">Laise France</a></div>
               
  
   ![Snake animation](https://github.com/LaiFrance/LaiFrance/blob/output/github-contribution-grid-snake.svg)

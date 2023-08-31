@@ -1,5 +1,8 @@
 
 # 🚀 Sobre mim
+| <img src="https://user-images.githubusercontent.com/91226847/230133646-7e839d2a-888a-4986-a6ca-f8e1c98f29d7.gif" height="320" width="300" align="left" style="margin-right: 20px;"> |  Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <br><br>Sou Laise Farias, uma desenvolvedora Full Stack com ampla experiência em diversas tecnologias e frameworks. Possuo certificações internacionais em Testes e Qualidade de Software (ISTQB - CTFL), bem como a Certificação SFC pela Scrum Study e em Desenvolvimento Full Stack pela Trybe. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente. |
+| --- | --- |
+
 
 
 

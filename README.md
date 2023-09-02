@@ -1,12 +1,11 @@
 
 # 🚀 Sobre mim
-| <img src="https://user-images.githubusercontent.com/91226847/230133646-7e839d2a-888a-4986-a6ca-f8e1c98f29d7.gif" height="320" width="300" align="left" style="margin-right: 20px;"> |  Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <br><br>Sou Laise Farias, uma desenvolvedora Full Stack com ampla experiência em diversas tecnologias e frameworks. Possuo certificações internacionais em Testes e Qualidade de Software (ISTQB - CTFL), bem como a Certificação SFC pela Scrum Study e em Desenvolvimento Full Stack pela Trybe. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente. |
+| ![woman hair blon 0](https://github.com/LaiFrance/LaiFrance/assets/91226847/adcb1b18-b19e-44e6-a29d-84c943231d20) |  Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <br><br>Sou Laise Farias, uma desenvolvedora Full Stack com ampla experiência em diversas tecnologias e frameworks. Possuo certificações internacionais em Testes e Qualidade de Software (ISTQB - CTFL), bem como a Certificação SFC pela Scrum Study e em Desenvolvimento Full Stack pela Trybe. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente. |
 | --- | --- |
 
 
 
 
- <img src="https://github.com/LaiFrance/LaiFrance/assets/91226847/d3dcae90-fdcd-4711-ad66-6ed01f562872" height="500" width="500" align="left" style="margin-right: 10px;"> 
  
 <a href="https://github.com/laifrance">
 <img height="200em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiFrance&theme=nightowl&layout=compact&langs_count=7"/>

@@ -3,6 +3,10 @@
 |![_bf456943-d2f4-444f-b270-052f9df6e29f](https://github.com/LaiFrance/LaiFrance/assets/91226847/50126ca5-b46d-48be-9002-bbddf2218e13)Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="59px"><br> Sou Laise France|<br><br>Estou atualmente cursando um MBA em Engenharia de Software na USP, o que tem aprimorado ainda mais minhas habilidades técnicas e me dado uma compreensão mais profunda dos princípios de engenharia de software. Além disso, sou certificada em Qualidade de Software e Scrum, o que me permite trabalhar efetivamente em ambientes ágeis e garantir a qualidade do software que produzo.Estou sempre buscando novas oportunidades para aplicar e expandir minhas habilidades enquanto contribuo para projetos significativos. Estou particularmente interessada em posições que me permitam trabalhar em projetos desafiadores e inovadores na área de TI..<br><br>Encontrei na área de Tecnologia uma verdadeira revolução, que me proporcionou grandes resultados e evolução pessoal. Por isso, dedico meus esforços diariamente para aprimorar meus conhecimentos e me tornar ainda mais competente. |
 | --- | --- |
 
+<div  align="center"> 
+ <img height="200px" width="200px" src="https://github.com/LaiFrance/LaiFrance/assets/91226847/40d048b3-7293-4ca0-b2ec-23fccb90427b">
+
+  <div style="display:flex"><br>
 
 
 
